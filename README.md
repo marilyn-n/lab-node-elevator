@@ -66,7 +66,7 @@ In order to make it move, it will need a direction and a current position (floor
 ```
 Direction: up | Floor: 0
 ```
-- The `start` function should start a `setInterval` call the `update` function every second
+- The `start` function should start a `setInterval` which calls the `update` function every second
 - The `stop` function should stop the elevator's `setInterval` listening for requests
 
 
