@@ -3,7 +3,7 @@ class Person {
 		this.name = name
 		this.originFloor = originFloor
 		this.destinationFloor = destinationFloor
-		this.waitingList = []
+		
 	}
 }
 
